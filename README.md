@@ -1,2 +1,2 @@
-# Clarity-Counter
-Counter Smart Contract
+# Time-lock
+TimeLockWallet Smart Contract
